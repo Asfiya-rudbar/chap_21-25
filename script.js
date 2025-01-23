@@ -112,9 +112,6 @@
 // }
 
 
-
-
-
 // QUESTION 16
 // var uni= "University of Karachi";
 // var arr = uni.split("");
